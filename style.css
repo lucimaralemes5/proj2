@@ -2,6 +2,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    text-align: center;
 }
 
 body{
@@ -34,6 +35,7 @@ a{
 
 figure{
     display: inline-block;
+    margin: 0px 25px 25px 0px;
 
 }
 
@@ -41,10 +43,8 @@ figure{
     position: absolute;
     width: 1452px;
     height: 197px;
-    left: -12px;
     top: 2124px;
     background: #1E1E1E;
-    border-bottom: 1px solid #FFFFFF;
 }
 
 .text1 div{
